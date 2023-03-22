@@ -1,0 +1,85 @@
+.bodyf{
+    background-color:  #D9D9D9;
+}
+/*----Home Page Start-------*/
+.nava{
+    background-color: #B3B0B0;
+    
+}
+
+.coloraa{
+    color: #000000 !important;
+    font-size: 21px !important;
+    font-weight: 500;
+    margin: 3px;
+}
+.colora{
+    color: #000000 !important;
+    font-size: 21px;
+    font-weight: 400;
+    margin: 3px;
+}
+
+.commercialp{
+    font-size: 22px;
+    font-weight: 400;
+    margin-top: 86px;
+}
+.imagerow{
+    margin-left: 16px !important;
+    margin-right: 30px !important;
+ 
+}
+
+.imagehei{
+    height: 240px;
+}
+/*----Home Page End-------*/
+
+/*----Sign In Page Start-------*/
+.a{
+    height: 615px;
+    background-color: white;
+    margin: 136px;
+    padding: 132px;
+    border-radius: 8px;
+}
+.inputdiv{
+    height: 47px;
+    background-color: #B3B0B0;
+    border-radius: 6px;
+}
+::placeholder{
+    color: rgb(235, 230, 230) !important;
+    font-size: 18px;
+}
+.btnbtn{
+    background-color: #B3B0B0;
+    height: 37px;
+    width: 107px;
+    line-height: 20px;
+    border: none;
+    color: #000000;
+    font-weight: 400;
+    font-size: 20px;
+    margin-top: 20px;
+}
+@media only screen and (max-width: 992px) {
+    .sign{
+      font-size: 10px;
+    }
+  }
+/*----Sign In Page End-------*/
+
+/*----SignUp  Page Start-------*/
+
+.create{
+    width: 174px;
+}
+@media only screen and (max-width: 992px) {
+    .create{
+      font-size: 12px !important;
+      width: 120px;
+    }
+  }
+/*----SignUp Page End-------*/

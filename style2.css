@@ -1,0 +1,99 @@
+/*container*/
+.bgb{
+    background-color:#B2B0B0;
+    width: 1162px;
+height: 504px;
+    margin-top: 73px;
+}
+/*upload container*/
+.tft{
+    background-color:
+    #D9D9D9;
+    Width:70%;
+    Height:258px;
+   margin-top:20%;
+   margin-left:20%;
+     border:none;
+     text-align: center;
+}
+/*write text about upload file*/
+
+.pft{
+    background-color:
+    #D9D9D9;
+    Width:70%;
+    Height:258px;
+   margin-top:20%;
+     margin-left:20%;
+     border:none;
+     font-size:20px;
+    color:#000000;
+}
+/*upload input*/
+
+   input {
+        display: none;
+      
+      }
+      /*upload div */
+      label{
+        width:40%;
+        height:63px;
+        
+        margin-top: 30%;
+        background-color:#B2B0B0;
+        text-align: center;
+          padding-top: 18px;
+          color:white;
+
+      }
+      /*select area*/
+    .sel{
+     margin-top:20px;
+      background-color: #D9D9D9;
+     float:left;
+     width:70%;
+     margin-left:20%;
+    }
+    @media screen and (min-width: 820px) and (max-width: 1180px){
+      .sel {
+        width: 147%;
+        margin-left:36%
+      }
+    }
+    @media screen and (min-width: 768px) and (max-width: 1024px){
+      .sel {
+        width: 143%;
+        margin-left:38%
+      }
+    }
+    @media screen and (min-width: 1024px) and (max-width: 600px){
+      .sel {
+        width: 72%;
+        margin-left:18%
+      }
+    }
+     /*css for button*/
+     .gh{
+      margin-left:134px;
+      margin-top:20px;
+      
+     }
+     @media screen and (min-width: 280px) and (max-width: 653px){
+      .gh {
+        width: 81%;
+        margin-left:38%
+      }
+    }
+    .gh{
+        margin-left: 276px;
+    }
+    .mk
+    {
+        margin-left: 41px;
+    }
+    .pp{
+        border: none;
+        
+        margin-top: 5px;
+    }
